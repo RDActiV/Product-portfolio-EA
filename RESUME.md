@@ -23,7 +23,6 @@ Passionate gamer & data-driven Product Analyst with 2+ years designing analytics
 - Performed advanced SQL analysis on 500K+ events and data points to identify user behavior trends, patterns, and anomalies; synthesized findings into actionable operational reports
 - Independently identified and remediated 5-6 recurring data quality issues (grouping logic, precision loss); improved measurement reliability by 25%
 - Built self-serve analytics infrastructure (Kibana dashboards) enabling real-time operational monitoring; reduced support friction by 30%
-- **Gaming Analytics Project:** Analyzed player progression and monetization patterns across EA game franchises (FIFA, F1, Need for Speed) to identify engagement mechanics and design evolution; informed recommendation for retention-focused feature priorities
 - Partnered with 2-5 engineers to prioritize product development aligned with strategy; defined acceptance criteria and measurement methodologies
 - Built Python automation utilities reducing data aggregation time by 20%; improved team efficiency on recurring workflows
 
@@ -42,7 +41,7 @@ Passionate gamer & data-driven Product Analyst with 2+ years designing analytics
 ## EDUCATION
 **B.Tech – Electronics & Communication Engineering** - 7.5/10
 
-## CERTIFICATIONS & LEARNING
-- Machine Learning & Churn Prediction (Internship project)
+## PROJECTS & LEARNING
+- **Gaming Analytics Project:** Analyzed player progression and monetization patterns across EA game franchises (FIFA, F1, Need for Speed) to identify engagement mechanics and design evolution; informed recommendation for retention-focused feature priorities
 - A/B Testing & Experimental Design
 - Player Behavior Analytics & Live-Service Operations
