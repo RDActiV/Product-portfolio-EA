@@ -101,26 +101,6 @@ Updated resume highlighting game analytics experience, SQL/Python proficiency, B
 
 ---
 
-## 🎯 How to Use This Portfolio
-
-**For EA Recruiters:**
-1. Start with [RESUME.md](./RESUME.md) for context
-2. Review case studies in order: 01 → 02 → 03
-3. Check [GAMING-KNOWLEDGE.md](./GAMING-KNOWLEDGE.md) to see my EA franchise analysis
-4. Use [INTERVIEW-PREP.md](./INTERVIEW-PREP.md) if you reach the interview stage
-
-**For Interviewers:**
-- Case studies demonstrate SQL, Python, statistical rigor, and business impact thinking
-- Gaming knowledge shows authentic passion + industry understanding
-- Interview prep reveals how I think about product problems and player psychology
-
-**For Colleagues:**
-- Code examples show clean implementation patterns and documentation
-- Dashboards demonstrate self-serve analytics design and scalability thinking
-- Case studies model how to communicate technical findings to non-technical stakeholders
-
----
-
 ## 📫 Connect
 
 📧 **Email:** [workanveshsingh@gmail.com](mailto:workanveshsingh@gmail.com)  
