@@ -60,17 +60,10 @@ Real-time operational analytics for live games. Tracks DAU/MAU, retention cohort
 
 ### **Supporting Materials**
 
-#### **Gaming Knowledge & Interview Prep**
+#### **Gaming Knowledge**
 📄 [GAMING-KNOWLEDGE.md](./GAMING-KNOWLEDGE.md)
 
 My analysis of EA franchises, key interview talking points, player psychology insights, and preparation checklist. Covers FIFA → EA FC evolution, F1 live events, and The Sims monetization strategy.
-
----
-
-#### **Interview Preparation Guide**
-📄 [INTERVIEW-PREP.md](./INTERVIEW-PREP.md)
-
-5 common EA interview questions with detailed answers, red flags to avoid, and storytelling frameworks for discussing your work.
 
 ---
 
@@ -139,8 +132,7 @@ Updated resume highlighting game analytics experience, SQL/Python proficiency, B
 ## 📝 Notes
 
 **Last updated:** June 2024  
-**Portfolio status:** Active & maintained  
-**Target role:** Product Analyst - The Sims (EA)
+**Portfolio status:** Active & maintained 
 
 This portfolio represents work completed in June 2024 as preparation for EA Product Analyst applications. All case studies, analyses, and recommendations are based on realistic scenarios and methodologies used in production live-service environments.
 
