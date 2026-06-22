@@ -132,7 +132,7 @@ Updated resume highlighting game analytics experience, SQL/Python proficiency, B
 
 📧 **Email:** [workanveshsingh@gmail.com](mailto:workanveshsingh@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/anvesh-singh](https://linkedin.com/in/anvesh-singh)  
-🔗 **GitHub:** [github.com/anveshsingh](https://github.com/anveshsingh)
+🔗 **GitHub:** [github.com/anveshsingh](https://github.com/RDActiV)
 
 ---
 
