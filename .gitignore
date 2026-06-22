@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Data files (keep code, exclude raw data)
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.db
+*.sqlite
+
+# Output / generated files
+*.png
+*.jpg
+*.html
+reports/
+output/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Credentials / secrets
+.env
+*.key
+*.pem
+secrets.json
+config/local.py
