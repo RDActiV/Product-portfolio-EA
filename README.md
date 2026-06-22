@@ -1,4 +1,4 @@
-# 📊 EA Product Analyst Portfolio — Anvesh Singh
+# 📊 Product Analyst Portfolio — Anvesh Singh
 
 **Live-Service Analytics | Player Behavior | Data-Driven Insights**
 
