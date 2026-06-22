@@ -58,15 +58,6 @@ Real-time operational analytics for live games. Tracks DAU/MAU, retention cohort
 
 ---
 
-### **Supporting Materials**
-
-#### **Gaming Knowledge**
-📄 [GAMING-KNOWLEDGE.md](./GAMING-KNOWLEDGE.md)
-
-My analysis of EA franchises, key interview talking points, player psychology insights, and preparation checklist. Covers FIFA → EA FC evolution, F1 live events, and The Sims monetization strategy.
-
----
-
 #### **The Sims Metrics Framework**
 📄 [SIMS-METRICS.md](./SIMS-METRICS.md)
 
