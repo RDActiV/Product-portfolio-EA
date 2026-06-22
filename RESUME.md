@@ -1,6 +1,6 @@
 # Anvesh Singh
 **Senior Product Analyst – Data, AI and Analytics**  
-Hyderabad | workanveshsingh@gmail.com | [LinkedIn](https://linkedin.com/in/anvesh-singh) | [Portfolio](https://github.com/anveshsingh/ea-product-analyst-portfolio)
+Hyderabad | workanveshsingh@gmail.com | [LinkedIn](https://linkedin.com/in/anvesh-singh) | [Portfolio]([https://github.com/anveshsingh/ea-product-analyst-portfolio](https://app.notion.com/p/Product-Analytics-Portfolio-387884541e3880699ffef283c2c82254?source=copy_link))
 
 ## SUMMARY
 Passionate gamer & data-driven Product Analyst with 2+ years designing analytics solutions that drive engagement and retention decisions. Expert in SQL, statistical A/B testing, Python automation, and translating player/customer behavior into actionable insights. Proven track record building scalable BI dashboards and identifying growth opportunities through data.
